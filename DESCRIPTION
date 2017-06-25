@@ -6,7 +6,7 @@ Author: Rubén Martín Vázquez
 Description: Analysis and Plotting data from Fatality Analysis Reporting System data.
 Maintainer: Rubén Martín Vázquez <rmartinvazquez@notreal.com>
 Depends:
-  R, dplyr, readr, maps, tidyr
+  R(>= 3.0.0), dplyr, readr, maps, tidyr
 ImportFrom: (dplyr bind_rows, group_by, mutate, select, tbl_df)
 vImportFrom: (readr read_csv)
 ImportFrom: (tidyr spread)
