@@ -1,0 +1,22 @@
+Package: ffrmv
+Type: Package
+Title: Fars Functions Package
+Version: 1.0.0
+Author: Rubén Martín Vázquez
+Description: Analysis and Plotting data from Fatality Analysis Reporting System data.
+Maintainer: Rubén Martín Vázquez <rmartinvazquez@notreal.com>
+Depends:
+  R, dplyr, readr, maps, tidyr
+ImportFrom: (dplyr bind_rows, group_by, mutate, select, tbl_df)
+vImportFrom: (readr read_csv)
+ImportFrom: (tidyr spread)
+ImportFrom: (maps map)
+ImportFrom: (graphics points)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
