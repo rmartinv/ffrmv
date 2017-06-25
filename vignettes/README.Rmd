@@ -10,7 +10,7 @@ vignette: >
 ---
 
 
-# Vignette using knitr and R Markdown  ![](https://camo.githubusercontent.com/5134d05f6dd511adb7fc9847532e8a7b4704a04e/68747470733a2f2f7472617669732d63692e6f72672f6d6963726f707974686f6e2f6d6963726f707974686f6e2e706e673f6272616e63683d6d6173746572)
+# Vignette using knitr and R Markdown [![Build Status](https://api.travis-ci.org/rmartinvazquez/ffrmv.svg?branch=master)](https://travis-ci.org/rmartinvazquez/ffrmv)
 
 ## Description
 
